@@ -1,7 +1,7 @@
 # coding=utf-8
 """
 china_map：国内疫情地图
-
+world_map_data：世界疫情地图
 """
 
 import requests
